@@ -137,7 +137,6 @@ const Menu = () => {
                                     color="primary"
                                     className={classes.button}
                                     endIcon={<Icon>send</Icon>}
-                                    className={classes.button}
                                     onClick={placeOrder}
                                 >
                                     Proceed to checkout
