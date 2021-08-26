@@ -139,6 +139,7 @@ const Menu = () => {
                                     endIcon={<Icon>send</Icon>}
                                     onClick={placeOrder}
                                 >
+                                
                                     Proceed to checkout
                                 </Button>
                             </Grid>
