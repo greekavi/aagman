@@ -53,7 +53,7 @@ const useStyles = makeStyles((theme) => ({
     }
 }));
 
-const menu = () => {
+const Menu = () => {
     const lightTheme = createTheme({
         palette: {
             type: "light",
@@ -167,4 +167,4 @@ const menu = () => {
 }
 
 
-export default menu
+export default Menu
